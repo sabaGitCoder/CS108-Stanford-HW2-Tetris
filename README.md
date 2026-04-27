@@ -10,13 +10,9 @@ This repository contains my solution for Homework 2 of Stanford University's **C
 * **Brain/AI Integration:** Includes an automated "Brain" module that calculates the optimal next move.
 * **Object-Oriented Design:** Clean separation of logic between the board, pieces, and user interface.
 
-## 📸 Preview
-*(Pro-tip: Record a 10-second screen recording of you playing the game, convert it to a `.gif`, and drop the image here. Visuals are the #1 thing recruiters look for!)*
-![Tetris Gameplay Demo](link-to-your-gif-or-screenshot-here)
-
 ## 🛠️ Tech Stack
-* **Language:** Java *(Change this if you used something else)*
-* **UI Framework:** Java Swing / AWT *(Adjust based on your implementation)*
+* **Language:** Java 
+* **UI Framework:** Java Swing / AWT 
 
 ## 🚀 How to Run Locally
 
