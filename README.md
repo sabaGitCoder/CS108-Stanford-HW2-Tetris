@@ -16,6 +16,4 @@ This repository contains my solution for Homework 2 of Stanford University's **C
 
 ## 🚀 How to Run Locally
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YourUsername/your-repo-name.git](https://github.com/YourUsername/your-repo-name.git)
+1. Clone this repository:
